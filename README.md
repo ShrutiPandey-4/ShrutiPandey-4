@@ -79,7 +79,7 @@ and <b>real-world problem solving</b>.
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,IntelliJ IDEA" />
 </p>
 
 ---
