@@ -1,0 +1,22 @@
+name: Generate Contribution Game
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate contribution game
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ShrutiPandey-4
+          github_token: ${{ github.token }}
+          games: "galaga"
