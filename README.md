@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20%20I'm%20Shruti%20Apandey%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20%20I'm%20Shruti%20Pandey%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>💻 Computer Science Student | 🤖 AI/ML Enthusiast | 🚀 Software Developer</h3>
 
