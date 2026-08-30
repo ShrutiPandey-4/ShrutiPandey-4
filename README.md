@@ -190,7 +190,7 @@ View Profile →
 | Problem Solving | AI Applications | REST APIs | Cloud Basics |
 
 </div>
----
+
 
 ## 🔥 Contribution Streak
 
