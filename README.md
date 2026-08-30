@@ -56,5 +56,26 @@ Here are some ideas to get you started:
 🚀 Interested in solving real-world problems through technology
 
 <!-- ======================= CONTRIBUTION ======================= -->
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
+
+## 🎮 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutiPandey-4&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
+
+<br>
+
+### 🕹️ My Coding Arcade
+
+```text
+╔══════════════════════════════════════════════╗
+║              🕹️ CODING ARCADE               ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║       🚀                                      ║
+║          •  •  •  •  •  •  •                 ║
+║                                      ⭐       ║
+║                💻                            ║
+║          BUILD → DEBUG → LEARN → REPEAT     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
