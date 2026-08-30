@@ -54,3 +54,7 @@ Here are some ideas to get you started:
 🧠 Strengthening DSA & problem-solving skills
 🌱 Currently learning backend development and ML
 🚀 Interested in solving real-world problems through technology
+
+<!-- ======================= CONTRIBUTION ======================= -->
+🐍 Contribution Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
