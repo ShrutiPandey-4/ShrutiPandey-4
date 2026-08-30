@@ -216,24 +216,6 @@ View Profile →
 
 </div>
 
----
-
-## 🎮 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
-
-<br><br>
-
-### 🚀 Keep Building
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+LEARN+%E2%86%92+REPEAT;Every+commit+is+a+step+forward+%F0%9F%9A%80;Turning+ideas+into+real+projects+%F0%9F%92%BB" />
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - 🧠 Become stronger in DSA
