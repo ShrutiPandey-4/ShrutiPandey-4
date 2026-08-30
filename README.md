@@ -191,6 +191,22 @@ View Profile →
 
 </div>
 
+## 🚀 Contribution Galaxy
+
+<div align="center">
+
+<p>
+  My GitHub contributions, turned into a game 🎮
+</p>
+
+<img
+  src="https://raw.githubusercontent.com/ShrutiPandey-4/ShrutiPandey-4/main/dist/galaga-contribution-graph-dark.svg"
+  alt="Galaga Contribution Graph"
+  width="900"
+/>
+
+</div>
+
 
 ## 🔥 Contribution Streak
 
