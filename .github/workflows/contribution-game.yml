@@ -14,9 +14,23 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution game
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ShrutiPandey-4
           github_token: ${{ github.token }}
           games: "galaga"
+
+      - name: Save generated game
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dist/
+
+          git diff --cached --quiet || git commit -m "Update contribution game"
+
+          git push
