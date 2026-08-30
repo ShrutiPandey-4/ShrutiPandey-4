@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20%20I'm%20Shruti Pandey%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20%20I'm%20Shruti%20Apandey%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>💻 Computer Science Student | 🤖 AI/ML Enthusiast | 🚀 Software Developer</h3>
 
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-203A43?style=for-the-badge&logo=github&logoColor=white" />
   </a>
